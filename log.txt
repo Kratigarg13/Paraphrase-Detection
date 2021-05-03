@@ -1,0 +1,346 @@
+Epoch:1 Step:0 Loss:0.8636 Batch Acc:0.3047 Mean Batch Acc:0.3047
+Epoch:1 Step:1 Loss:0.7131 Batch Acc:0.3320 Mean Batch Acc:0.3184
+Epoch:1 Step:2 Loss:0.6444 Batch Acc:0.6758 Mean Batch Acc:0.4375
+Epoch:1 Step:3 Loss:0.6572 Batch Acc:0.6406 Mean Batch Acc:0.4883
+Epoch:1 Step:4 Loss:0.6664 Batch Acc:0.6562 Mean Batch Acc:0.5219
+Epoch:1 Step:5 Loss:0.6761 Batch Acc:0.6641 Mean Batch Acc:0.5456
+Epoch:1 Step:6 Loss:0.6963 Batch Acc:0.6562 Mean Batch Acc:0.5614
+Epoch:1 Step:7 Loss:0.7154 Batch Acc:0.6406 Mean Batch Acc:0.5713
+Epoch:1 Step:8 Loss:0.6335 Batch Acc:0.6953 Mean Batch Acc:0.5851
+Epoch:1 Step:9 Loss:0.6901 Batch Acc:0.6367 Mean Batch Acc:0.5902
+Epoch:1 Step:10 Loss:0.6524 Batch Acc:0.6602 Mean Batch Acc:0.5966
+Epoch:1 Step:11 Loss:0.5554 Batch Acc:0.7656 Mean Batch Acc:0.6107
+Epoch:1 Step:12 Loss:0.6364 Batch Acc:0.6641 Mean Batch Acc:0.6148
+Epoch:1 Step:13 Loss:0.6185 Batch Acc:0.6953 Mean Batch Acc:0.6205
+Epoch:1 Step:14 Loss:0.6227 Batch Acc:0.6953 Mean Batch Acc:0.6255
+Epoch:2 Step:0 Loss:0.6237 Batch Acc:0.6953 Mean Batch Acc:0.6299
+Epoch:2 Step:1 Loss:0.6361 Batch Acc:0.6719 Mean Batch Acc:0.6324
+Epoch:2 Step:2 Loss:0.6350 Batch Acc:0.6758 Mean Batch Acc:0.6348
+Epoch:2 Step:3 Loss:0.6488 Batch Acc:0.6406 Mean Batch Acc:0.6351
+Epoch:2 Step:4 Loss:0.6418 Batch Acc:0.6562 Mean Batch Acc:0.6361
+Epoch:2 Step:5 Loss:0.6366 Batch Acc:0.6641 Mean Batch Acc:0.6375
+Epoch:2 Step:6 Loss:0.6408 Batch Acc:0.6562 Mean Batch Acc:0.6383
+Epoch:2 Step:7 Loss:0.6509 Batch Acc:0.6406 Mean Batch Acc:0.6384
+Epoch:2 Step:8 Loss:0.6131 Batch Acc:0.6953 Mean Batch Acc:0.6408
+Epoch:2 Step:9 Loss:0.6536 Batch Acc:0.6367 Mean Batch Acc:0.6406
+Epoch:2 Step:10 Loss:0.6417 Batch Acc:0.6602 Mean Batch Acc:0.6414
+Epoch:2 Step:11 Loss:0.5538 Batch Acc:0.7656 Mean Batch Acc:0.6460
+Epoch:2 Step:12 Loss:0.6365 Batch Acc:0.6641 Mean Batch Acc:0.6466
+Epoch:2 Step:13 Loss:0.6045 Batch Acc:0.6953 Mean Batch Acc:0.6483
+Epoch:2 Step:14 Loss:0.6118 Batch Acc:0.6953 Mean Batch Acc:0.6499
+Epoch:3 Step:0 Loss:0.6022 Batch Acc:0.6953 Mean Batch Acc:0.6513
+Epoch:3 Step:1 Loss:0.6264 Batch Acc:0.6719 Mean Batch Acc:0.6520
+Epoch:3 Step:2 Loss:0.6280 Batch Acc:0.6758 Mean Batch Acc:0.6527
+Epoch:3 Step:3 Loss:0.6525 Batch Acc:0.6406 Mean Batch Acc:0.6523
+Epoch:3 Step:4 Loss:0.6377 Batch Acc:0.6562 Mean Batch Acc:0.6525
+Epoch:3 Step:5 Loss:0.6288 Batch Acc:0.6641 Mean Batch Acc:0.6528
+Epoch:3 Step:6 Loss:0.6353 Batch Acc:0.6562 Mean Batch Acc:0.6529
+Epoch:3 Step:7 Loss:0.6387 Batch Acc:0.6406 Mean Batch Acc:0.6525
+Epoch:3 Step:8 Loss:0.6084 Batch Acc:0.6953 Mean Batch Acc:0.6536
+Epoch:3 Step:9 Loss:0.6351 Batch Acc:0.6367 Mean Batch Acc:0.6532
+Epoch:3 Step:10 Loss:0.6259 Batch Acc:0.6602 Mean Batch Acc:0.6534
+Epoch:3 Step:11 Loss:0.5683 Batch Acc:0.7656 Mean Batch Acc:0.6561
+Epoch:3 Step:12 Loss:0.6207 Batch Acc:0.6641 Mean Batch Acc:0.6562
+Epoch:3 Step:13 Loss:0.5981 Batch Acc:0.6953 Mean Batch Acc:0.6571
+Epoch:3 Step:14 Loss:0.5938 Batch Acc:0.6953 Mean Batch Acc:0.6580
+Epoch:4 Step:0 Loss:0.5763 Batch Acc:0.6953 Mean Batch Acc:0.6588
+Epoch:4 Step:1 Loss:0.6096 Batch Acc:0.6719 Mean Batch Acc:0.6591
+Epoch:4 Step:2 Loss:0.6296 Batch Acc:0.6758 Mean Batch Acc:0.6594
+Epoch:4 Step:3 Loss:0.6452 Batch Acc:0.6406 Mean Batch Acc:0.6590
+Epoch:4 Step:4 Loss:0.6294 Batch Acc:0.6562 Mean Batch Acc:0.6590
+Epoch:4 Step:5 Loss:0.6228 Batch Acc:0.6641 Mean Batch Acc:0.6591
+Epoch:4 Step:6 Loss:0.6216 Batch Acc:0.6562 Mean Batch Acc:0.6590
+Epoch:4 Step:7 Loss:0.6280 Batch Acc:0.6406 Mean Batch Acc:0.6587
+Epoch:4 Step:8 Loss:0.5756 Batch Acc:0.6953 Mean Batch Acc:0.6594
+Epoch:4 Step:9 Loss:0.6169 Batch Acc:0.6445 Mean Batch Acc:0.6591
+Epoch:4 Step:10 Loss:0.6183 Batch Acc:0.6523 Mean Batch Acc:0.6590
+Epoch:4 Step:11 Loss:0.5490 Batch Acc:0.7461 Mean Batch Acc:0.6605
+Epoch:4 Step:12 Loss:0.6013 Batch Acc:0.6914 Mean Batch Acc:0.6610
+Epoch:4 Step:13 Loss:0.5948 Batch Acc:0.7031 Mean Batch Acc:0.6617
+Epoch:4 Step:14 Loss:0.5809 Batch Acc:0.7031 Mean Batch Acc:0.6624
+Epoch:5 Step:0 Loss:0.5585 Batch Acc:0.6953 Mean Batch Acc:0.6630
+Epoch:5 Step:1 Loss:0.6009 Batch Acc:0.6719 Mean Batch Acc:0.6631
+Epoch:5 Step:2 Loss:0.6279 Batch Acc:0.6758 Mean Batch Acc:0.6633
+Epoch:5 Step:3 Loss:0.6379 Batch Acc:0.6406 Mean Batch Acc:0.6630
+Epoch:5 Step:4 Loss:0.6376 Batch Acc:0.6562 Mean Batch Acc:0.6629
+Epoch:5 Step:5 Loss:0.6241 Batch Acc:0.6641 Mean Batch Acc:0.6629
+Epoch:5 Step:6 Loss:0.6320 Batch Acc:0.6523 Mean Batch Acc:0.6627
+Epoch:5 Step:7 Loss:0.6347 Batch Acc:0.6367 Mean Batch Acc:0.6623
+Epoch:5 Step:8 Loss:0.5735 Batch Acc:0.7070 Mean Batch Acc:0.6630
+Epoch:5 Step:9 Loss:0.6180 Batch Acc:0.6328 Mean Batch Acc:0.6626
+Epoch:5 Step:10 Loss:0.6248 Batch Acc:0.6445 Mean Batch Acc:0.6623
+Epoch:5 Step:11 Loss:0.5555 Batch Acc:0.7305 Mean Batch Acc:0.6632
+Epoch:5 Step:12 Loss:0.6083 Batch Acc:0.6797 Mean Batch Acc:0.6635
+Epoch:5 Step:13 Loss:0.6075 Batch Acc:0.6992 Mean Batch Acc:0.6640
+Epoch:5 Step:14 Loss:0.5989 Batch Acc:0.6953 Mean Batch Acc:0.6644
+Epoch:6 Step:0 Loss:0.5889 Batch Acc:0.6953 Mean Batch Acc:0.6648
+Epoch:6 Step:1 Loss:0.6170 Batch Acc:0.6719 Mean Batch Acc:0.6649
+Epoch:6 Step:2 Loss:0.6315 Batch Acc:0.6758 Mean Batch Acc:0.6650
+Epoch:6 Step:3 Loss:0.6509 Batch Acc:0.6406 Mean Batch Acc:0.6647
+Epoch:6 Step:4 Loss:0.6578 Batch Acc:0.6562 Mean Batch Acc:0.6646
+Epoch:6 Step:5 Loss:0.6275 Batch Acc:0.6641 Mean Batch Acc:0.6646
+Epoch:6 Step:6 Loss:0.6386 Batch Acc:0.6562 Mean Batch Acc:0.6645
+Epoch:6 Step:7 Loss:0.6231 Batch Acc:0.6523 Mean Batch Acc:0.6643
+Epoch:6 Step:8 Loss:0.5755 Batch Acc:0.6914 Mean Batch Acc:0.6647
+Epoch:6 Step:9 Loss:0.6093 Batch Acc:0.6406 Mean Batch Acc:0.6644
+Epoch:6 Step:10 Loss:0.6337 Batch Acc:0.6250 Mean Batch Acc:0.6639
+Epoch:6 Step:11 Loss:0.5570 Batch Acc:0.7266 Mean Batch Acc:0.6646
+Epoch:6 Step:12 Loss:0.5965 Batch Acc:0.6641 Mean Batch Acc:0.6646
+Epoch:6 Step:13 Loss:0.5955 Batch Acc:0.7109 Mean Batch Acc:0.6652
+Epoch:6 Step:14 Loss:0.5801 Batch Acc:0.6953 Mean Batch Acc:0.6655
+Epoch:7 Step:0 Loss:0.5481 Batch Acc:0.7031 Mean Batch Acc:0.6659
+Epoch:7 Step:1 Loss:0.5895 Batch Acc:0.6719 Mean Batch Acc:0.6660
+Epoch:7 Step:2 Loss:0.6128 Batch Acc:0.6758 Mean Batch Acc:0.6661
+Epoch:7 Step:3 Loss:0.6292 Batch Acc:0.6406 Mean Batch Acc:0.6658
+Epoch:7 Step:4 Loss:0.6322 Batch Acc:0.6562 Mean Batch Acc:0.6657
+Epoch:7 Step:5 Loss:0.6179 Batch Acc:0.6641 Mean Batch Acc:0.6657
+Epoch:7 Step:6 Loss:0.6195 Batch Acc:0.6523 Mean Batch Acc:0.6656
+Epoch:7 Step:7 Loss:0.6125 Batch Acc:0.6406 Mean Batch Acc:0.6653
+Epoch:7 Step:8 Loss:0.5603 Batch Acc:0.7188 Mean Batch Acc:0.6658
+Epoch:7 Step:9 Loss:0.6042 Batch Acc:0.6562 Mean Batch Acc:0.6657
+Epoch:7 Step:10 Loss:0.6203 Batch Acc:0.6484 Mean Batch Acc:0.6656
+Epoch:7 Step:11 Loss:0.5331 Batch Acc:0.7266 Mean Batch Acc:0.6662
+Epoch:7 Step:12 Loss:0.5939 Batch Acc:0.6875 Mean Batch Acc:0.6664
+Epoch:7 Step:13 Loss:0.5858 Batch Acc:0.6953 Mean Batch Acc:0.6667
+Epoch:7 Step:14 Loss:0.5716 Batch Acc:0.6953 Mean Batch Acc:0.6669
+Epoch:8 Step:0 Loss:0.5442 Batch Acc:0.7031 Mean Batch Acc:0.6673
+Epoch:8 Step:1 Loss:0.5856 Batch Acc:0.6719 Mean Batch Acc:0.6673
+Epoch:8 Step:2 Loss:0.6064 Batch Acc:0.6758 Mean Batch Acc:0.6674
+Epoch:8 Step:3 Loss:0.6276 Batch Acc:0.6445 Mean Batch Acc:0.6672
+Epoch:8 Step:4 Loss:0.6354 Batch Acc:0.6641 Mean Batch Acc:0.6672
+Epoch:8 Step:5 Loss:0.6200 Batch Acc:0.6602 Mean Batch Acc:0.6671
+Epoch:8 Step:6 Loss:0.6153 Batch Acc:0.6602 Mean Batch Acc:0.6670
+Epoch:8 Step:7 Loss:0.5952 Batch Acc:0.6953 Mean Batch Acc:0.6673
+Epoch:8 Step:8 Loss:0.5580 Batch Acc:0.7031 Mean Batch Acc:0.6676
+Epoch:8 Step:9 Loss:0.6004 Batch Acc:0.6523 Mean Batch Acc:0.6675
+Epoch:8 Step:10 Loss:0.6271 Batch Acc:0.6094 Mean Batch Acc:0.6670
+Epoch:8 Step:11 Loss:0.5311 Batch Acc:0.7148 Mean Batch Acc:0.6674
+Epoch:8 Step:12 Loss:0.5810 Batch Acc:0.6797 Mean Batch Acc:0.6675
+Epoch:8 Step:13 Loss:0.5716 Batch Acc:0.7031 Mean Batch Acc:0.6678
+Epoch:8 Step:14 Loss:0.5646 Batch Acc:0.7148 Mean Batch Acc:0.6682
+Epoch:9 Step:0 Loss:0.5349 Batch Acc:0.7109 Mean Batch Acc:0.6685
+Epoch:9 Step:1 Loss:0.5719 Batch Acc:0.6758 Mean Batch Acc:0.6686
+Epoch:9 Step:2 Loss:0.5979 Batch Acc:0.6758 Mean Batch Acc:0.6686
+Epoch:9 Step:3 Loss:0.6201 Batch Acc:0.6484 Mean Batch Acc:0.6685
+Epoch:9 Step:4 Loss:0.6244 Batch Acc:0.6641 Mean Batch Acc:0.6684
+Epoch:9 Step:5 Loss:0.5991 Batch Acc:0.6719 Mean Batch Acc:0.6685
+Epoch:9 Step:6 Loss:0.6064 Batch Acc:0.6758 Mean Batch Acc:0.6685
+Epoch:9 Step:7 Loss:0.5745 Batch Acc:0.7070 Mean Batch Acc:0.6688
+Epoch:9 Step:8 Loss:0.5575 Batch Acc:0.7148 Mean Batch Acc:0.6692
+Epoch:9 Step:9 Loss:0.5961 Batch Acc:0.6719 Mean Batch Acc:0.6692
+Epoch:9 Step:10 Loss:0.6297 Batch Acc:0.6406 Mean Batch Acc:0.6690
+Epoch:9 Step:11 Loss:0.5287 Batch Acc:0.7266 Mean Batch Acc:0.6694
+Epoch:9 Step:12 Loss:0.5729 Batch Acc:0.6758 Mean Batch Acc:0.6695
+Epoch:9 Step:13 Loss:0.5560 Batch Acc:0.7188 Mean Batch Acc:0.6698
+Epoch:9 Step:14 Loss:0.5515 Batch Acc:0.7188 Mean Batch Acc:0.6702
+Epoch:10 Step:0 Loss:0.5238 Batch Acc:0.7188 Mean Batch Acc:0.6706
+Epoch:10 Step:1 Loss:0.5690 Batch Acc:0.6836 Mean Batch Acc:0.6706
+Epoch:10 Step:2 Loss:0.5804 Batch Acc:0.6836 Mean Batch Acc:0.6707
+Epoch:10 Step:3 Loss:0.5923 Batch Acc:0.6758 Mean Batch Acc:0.6708
+Epoch:10 Step:4 Loss:0.6060 Batch Acc:0.6797 Mean Batch Acc:0.6708
+Epoch:10 Step:5 Loss:0.5757 Batch Acc:0.6875 Mean Batch Acc:0.6710
+Epoch:10 Step:6 Loss:0.5890 Batch Acc:0.6914 Mean Batch Acc:0.6711
+Epoch:10 Step:7 Loss:0.5642 Batch Acc:0.7383 Mean Batch Acc:0.6716
+Epoch:10 Step:8 Loss:0.5448 Batch Acc:0.7188 Mean Batch Acc:0.6719
+Epoch:10 Step:9 Loss:0.5823 Batch Acc:0.6719 Mean Batch Acc:0.6719
+Epoch:10 Step:10 Loss:0.6108 Batch Acc:0.6445 Mean Batch Acc:0.6717
+Epoch:10 Step:11 Loss:0.5001 Batch Acc:0.7266 Mean Batch Acc:0.6721
+Epoch:10 Step:12 Loss:0.5579 Batch Acc:0.7070 Mean Batch Acc:0.6723
+Epoch:10 Step:13 Loss:0.5563 Batch Acc:0.7070 Mean Batch Acc:0.6726
+Epoch:10 Step:14 Loss:0.5449 Batch Acc:0.7266 Mean Batch Acc:0.6729
+Epoch:11 Step:0 Loss:0.5137 Batch Acc:0.7305 Mean Batch Acc:0.6733
+Epoch:11 Step:1 Loss:0.5424 Batch Acc:0.6953 Mean Batch Acc:0.6734
+Epoch:11 Step:2 Loss:0.5601 Batch Acc:0.7070 Mean Batch Acc:0.6737
+Epoch:11 Step:3 Loss:0.5554 Batch Acc:0.7031 Mean Batch Acc:0.6739
+Epoch:11 Step:4 Loss:0.5864 Batch Acc:0.6523 Mean Batch Acc:0.6737
+Epoch:11 Step:5 Loss:0.5650 Batch Acc:0.6797 Mean Batch Acc:0.6738
+Epoch:11 Step:6 Loss:0.5851 Batch Acc:0.6875 Mean Batch Acc:0.6738
+Epoch:11 Step:7 Loss:0.5623 Batch Acc:0.7383 Mean Batch Acc:0.6742
+Epoch:11 Step:8 Loss:0.5281 Batch Acc:0.7266 Mean Batch Acc:0.6746
+Epoch:11 Step:9 Loss:0.5763 Batch Acc:0.7109 Mean Batch Acc:0.6748
+Epoch:11 Step:10 Loss:0.6033 Batch Acc:0.6836 Mean Batch Acc:0.6749
+Epoch:11 Step:11 Loss:0.4753 Batch Acc:0.7695 Mean Batch Acc:0.6754
+Epoch:11 Step:12 Loss:0.5618 Batch Acc:0.6875 Mean Batch Acc:0.6755
+Epoch:11 Step:13 Loss:0.5387 Batch Acc:0.7188 Mean Batch Acc:0.6758
+Epoch:11 Step:14 Loss:0.5358 Batch Acc:0.7227 Mean Batch Acc:0.6761
+Epoch:12 Step:0 Loss:0.4945 Batch Acc:0.7656 Mean Batch Acc:0.6766
+Epoch:12 Step:1 Loss:0.5105 Batch Acc:0.7188 Mean Batch Acc:0.6769
+Epoch:12 Step:2 Loss:0.5455 Batch Acc:0.7383 Mean Batch Acc:0.6772
+Epoch:12 Step:3 Loss:0.5460 Batch Acc:0.6953 Mean Batch Acc:0.6773
+Epoch:12 Step:4 Loss:0.5733 Batch Acc:0.6797 Mean Batch Acc:0.6773
+Epoch:12 Step:5 Loss:0.5546 Batch Acc:0.7148 Mean Batch Acc:0.6776
+Epoch:12 Step:6 Loss:0.5718 Batch Acc:0.6875 Mean Batch Acc:0.6776
+Epoch:12 Step:7 Loss:0.5380 Batch Acc:0.7461 Mean Batch Acc:0.6780
+Epoch:12 Step:8 Loss:0.5155 Batch Acc:0.7148 Mean Batch Acc:0.6782
+Epoch:12 Step:9 Loss:0.5850 Batch Acc:0.6836 Mean Batch Acc:0.6783
+Epoch:12 Step:10 Loss:0.5973 Batch Acc:0.6719 Mean Batch Acc:0.6782
+Epoch:12 Step:11 Loss:0.4716 Batch Acc:0.7656 Mean Batch Acc:0.6787
+Epoch:12 Step:12 Loss:0.5498 Batch Acc:0.7148 Mean Batch Acc:0.6789
+Epoch:12 Step:13 Loss:0.5282 Batch Acc:0.7266 Mean Batch Acc:0.6792
+Epoch:12 Step:14 Loss:0.5229 Batch Acc:0.7305 Mean Batch Acc:0.6795
+Epoch:13 Step:0 Loss:0.4837 Batch Acc:0.7852 Mean Batch Acc:0.6801
+Epoch:13 Step:1 Loss:0.4928 Batch Acc:0.7500 Mean Batch Acc:0.6804
+Epoch:13 Step:2 Loss:0.5312 Batch Acc:0.7305 Mean Batch Acc:0.6807
+Epoch:13 Step:3 Loss:0.5338 Batch Acc:0.7070 Mean Batch Acc:0.6809
+Epoch:13 Step:4 Loss:0.5571 Batch Acc:0.6875 Mean Batch Acc:0.6809
+Epoch:13 Step:5 Loss:0.5400 Batch Acc:0.7031 Mean Batch Acc:0.6810
+Epoch:13 Step:6 Loss:0.5517 Batch Acc:0.7148 Mean Batch Acc:0.6812
+Epoch:13 Step:7 Loss:0.5249 Batch Acc:0.7617 Mean Batch Acc:0.6816
+Epoch:13 Step:8 Loss:0.5074 Batch Acc:0.7305 Mean Batch Acc:0.6819
+Epoch:13 Step:9 Loss:0.5709 Batch Acc:0.6914 Mean Batch Acc:0.6819
+Epoch:13 Step:10 Loss:0.5783 Batch Acc:0.6953 Mean Batch Acc:0.6820
+Epoch:13 Step:11 Loss:0.4777 Batch Acc:0.7539 Mean Batch Acc:0.6824
+Epoch:13 Step:12 Loss:0.5368 Batch Acc:0.7227 Mean Batch Acc:0.6826
+Epoch:13 Step:13 Loss:0.5216 Batch Acc:0.7461 Mean Batch Acc:0.6829
+Epoch:13 Step:14 Loss:0.5085 Batch Acc:0.7656 Mean Batch Acc:0.6833
+Epoch:14 Step:0 Loss:0.4744 Batch Acc:0.7969 Mean Batch Acc:0.6839
+Epoch:14 Step:1 Loss:0.4853 Batch Acc:0.7656 Mean Batch Acc:0.6843
+Epoch:14 Step:2 Loss:0.5237 Batch Acc:0.7539 Mean Batch Acc:0.6847
+Epoch:14 Step:3 Loss:0.5322 Batch Acc:0.7148 Mean Batch Acc:0.6848
+Epoch:14 Step:4 Loss:0.5470 Batch Acc:0.6836 Mean Batch Acc:0.6848
+Epoch:14 Step:5 Loss:0.5237 Batch Acc:0.7227 Mean Batch Acc:0.6850
+Epoch:14 Step:6 Loss:0.5407 Batch Acc:0.7188 Mean Batch Acc:0.6852
+Epoch:14 Step:7 Loss:0.5090 Batch Acc:0.7773 Mean Batch Acc:0.6856
+Epoch:14 Step:8 Loss:0.5001 Batch Acc:0.7500 Mean Batch Acc:0.6859
+Epoch:14 Step:9 Loss:0.5668 Batch Acc:0.7109 Mean Batch Acc:0.6861
+Epoch:14 Step:10 Loss:0.5579 Batch Acc:0.7031 Mean Batch Acc:0.6862
+Epoch:14 Step:11 Loss:0.4747 Batch Acc:0.7656 Mean Batch Acc:0.6865
+Epoch:14 Step:12 Loss:0.5257 Batch Acc:0.7812 Mean Batch Acc:0.6870
+Epoch:14 Step:13 Loss:0.5231 Batch Acc:0.7344 Mean Batch Acc:0.6872
+Epoch:14 Step:14 Loss:0.5018 Batch Acc:0.7578 Mean Batch Acc:0.6876
+Epoch:15 Step:0 Loss:0.4635 Batch Acc:0.7812 Mean Batch Acc:0.6880
+Epoch:15 Step:1 Loss:0.4679 Batch Acc:0.7891 Mean Batch Acc:0.6885
+Epoch:15 Step:2 Loss:0.5162 Batch Acc:0.7344 Mean Batch Acc:0.6887
+Epoch:15 Step:3 Loss:0.5079 Batch Acc:0.7305 Mean Batch Acc:0.6889
+Epoch:15 Step:4 Loss:0.5388 Batch Acc:0.6992 Mean Batch Acc:0.6889
+Epoch:15 Step:5 Loss:0.5046 Batch Acc:0.7266 Mean Batch Acc:0.6891
+Epoch:15 Step:6 Loss:0.5302 Batch Acc:0.7500 Mean Batch Acc:0.6894
+Epoch:15 Step:7 Loss:0.5094 Batch Acc:0.7891 Mean Batch Acc:0.6898
+Epoch:15 Step:8 Loss:0.4896 Batch Acc:0.7578 Mean Batch Acc:0.6902
+Epoch:15 Step:9 Loss:0.5699 Batch Acc:0.7109 Mean Batch Acc:0.6903
+Epoch:15 Step:10 Loss:0.5510 Batch Acc:0.7422 Mean Batch Acc:0.6905
+Epoch:15 Step:11 Loss:0.4705 Batch Acc:0.7812 Mean Batch Acc:0.6909
+Epoch:15 Step:12 Loss:0.5079 Batch Acc:0.7500 Mean Batch Acc:0.6912
+Epoch:15 Step:13 Loss:0.5011 Batch Acc:0.7539 Mean Batch Acc:0.6914
+Epoch:15 Step:14 Loss:0.4842 Batch Acc:0.7695 Mean Batch Acc:0.6918
+Epoch:16 Step:0 Loss:0.4558 Batch Acc:0.7969 Mean Batch Acc:0.6923
+Epoch:16 Step:1 Loss:0.4588 Batch Acc:0.7969 Mean Batch Acc:0.6927
+Epoch:16 Step:2 Loss:0.5096 Batch Acc:0.7461 Mean Batch Acc:0.6929
+Epoch:16 Step:3 Loss:0.5076 Batch Acc:0.7227 Mean Batch Acc:0.6931
+Epoch:16 Step:4 Loss:0.5282 Batch Acc:0.7109 Mean Batch Acc:0.6932
+Epoch:16 Step:5 Loss:0.4960 Batch Acc:0.7500 Mean Batch Acc:0.6934
+Epoch:16 Step:6 Loss:0.5178 Batch Acc:0.7461 Mean Batch Acc:0.6936
+Epoch:16 Step:7 Loss:0.4789 Batch Acc:0.7930 Mean Batch Acc:0.6941
+Epoch:16 Step:8 Loss:0.4757 Batch Acc:0.7500 Mean Batch Acc:0.6943
+Epoch:16 Step:9 Loss:0.5685 Batch Acc:0.7188 Mean Batch Acc:0.6944
+Epoch:16 Step:10 Loss:0.5371 Batch Acc:0.7500 Mean Batch Acc:0.6946
+Epoch:16 Step:11 Loss:0.4576 Batch Acc:0.7617 Mean Batch Acc:0.6949
+Epoch:16 Step:12 Loss:0.4941 Batch Acc:0.7695 Mean Batch Acc:0.6952
+Epoch:16 Step:13 Loss:0.4869 Batch Acc:0.7656 Mean Batch Acc:0.6955
+Epoch:16 Step:14 Loss:0.4769 Batch Acc:0.7656 Mean Batch Acc:0.6958
+Epoch:17 Step:0 Loss:0.4425 Batch Acc:0.7969 Mean Batch Acc:0.6962
+Epoch:17 Step:1 Loss:0.4423 Batch Acc:0.7930 Mean Batch Acc:0.6966
+Epoch:17 Step:2 Loss:0.4919 Batch Acc:0.7578 Mean Batch Acc:0.6969
+Epoch:17 Step:3 Loss:0.4804 Batch Acc:0.7383 Mean Batch Acc:0.6971
+Epoch:17 Step:4 Loss:0.5125 Batch Acc:0.7109 Mean Batch Acc:0.6971
+Epoch:17 Step:5 Loss:0.4843 Batch Acc:0.7656 Mean Batch Acc:0.6974
+Epoch:17 Step:6 Loss:0.4967 Batch Acc:0.7578 Mean Batch Acc:0.6976
+Epoch:17 Step:7 Loss:0.4546 Batch Acc:0.8086 Mean Batch Acc:0.6981
+Epoch:17 Step:8 Loss:0.4643 Batch Acc:0.7617 Mean Batch Acc:0.6983
+Epoch:17 Step:9 Loss:0.5539 Batch Acc:0.7305 Mean Batch Acc:0.6985
+Epoch:17 Step:10 Loss:0.5033 Batch Acc:0.7422 Mean Batch Acc:0.6986
+Epoch:17 Step:11 Loss:0.4591 Batch Acc:0.7695 Mean Batch Acc:0.6989
+Epoch:17 Step:12 Loss:0.4824 Batch Acc:0.7734 Mean Batch Acc:0.6992
+Epoch:17 Step:13 Loss:0.4744 Batch Acc:0.7617 Mean Batch Acc:0.6995
+Epoch:17 Step:14 Loss:0.4553 Batch Acc:0.7539 Mean Batch Acc:0.6997
+Epoch:18 Step:0 Loss:0.4244 Batch Acc:0.8164 Mean Batch Acc:0.7001
+Epoch:18 Step:1 Loss:0.4307 Batch Acc:0.8086 Mean Batch Acc:0.7006
+Epoch:18 Step:2 Loss:0.4756 Batch Acc:0.7539 Mean Batch Acc:0.7008
+Epoch:18 Step:3 Loss:0.4641 Batch Acc:0.7266 Mean Batch Acc:0.7009
+Epoch:18 Step:4 Loss:0.4926 Batch Acc:0.7344 Mean Batch Acc:0.7010
+Epoch:18 Step:5 Loss:0.4605 Batch Acc:0.7812 Mean Batch Acc:0.7013
+Epoch:18 Step:6 Loss:0.4653 Batch Acc:0.7969 Mean Batch Acc:0.7017
+Epoch:18 Step:7 Loss:0.4379 Batch Acc:0.8086 Mean Batch Acc:0.7021
+Epoch:18 Step:8 Loss:0.4387 Batch Acc:0.7734 Mean Batch Acc:0.7023
+Epoch:18 Step:9 Loss:0.5301 Batch Acc:0.7578 Mean Batch Acc:0.7026
+Epoch:18 Step:10 Loss:0.4711 Batch Acc:0.7578 Mean Batch Acc:0.7028
+Epoch:18 Step:11 Loss:0.4535 Batch Acc:0.7734 Mean Batch Acc:0.7030
+Epoch:18 Step:12 Loss:0.4661 Batch Acc:0.7852 Mean Batch Acc:0.7033
+Epoch:18 Step:13 Loss:0.4721 Batch Acc:0.7500 Mean Batch Acc:0.7035
+Epoch:18 Step:14 Loss:0.4450 Batch Acc:0.7930 Mean Batch Acc:0.7038
+Epoch:19 Step:0 Loss:0.4107 Batch Acc:0.8047 Mean Batch Acc:0.7042
+Epoch:19 Step:1 Loss:0.4160 Batch Acc:0.8320 Mean Batch Acc:0.7047
+Epoch:19 Step:2 Loss:0.4512 Batch Acc:0.7773 Mean Batch Acc:0.7049
+Epoch:19 Step:3 Loss:0.4586 Batch Acc:0.7148 Mean Batch Acc:0.7050
+Epoch:19 Step:4 Loss:0.4829 Batch Acc:0.7305 Mean Batch Acc:0.7051
+Epoch:19 Step:5 Loss:0.4350 Batch Acc:0.8047 Mean Batch Acc:0.7054
+Epoch:19 Step:6 Loss:0.4426 Batch Acc:0.8203 Mean Batch Acc:0.7058
+Epoch:19 Step:7 Loss:0.4251 Batch Acc:0.8203 Mean Batch Acc:0.7063
+Epoch:19 Step:8 Loss:0.4189 Batch Acc:0.7969 Mean Batch Acc:0.7066
+Epoch:19 Step:9 Loss:0.5195 Batch Acc:0.7578 Mean Batch Acc:0.7068
+Epoch:19 Step:10 Loss:0.4448 Batch Acc:0.7773 Mean Batch Acc:0.7070
+Epoch:19 Step:11 Loss:0.4305 Batch Acc:0.7969 Mean Batch Acc:0.7073
+Epoch:19 Step:12 Loss:0.4403 Batch Acc:0.8008 Mean Batch Acc:0.7077
+Epoch:19 Step:13 Loss:0.4624 Batch Acc:0.7578 Mean Batch Acc:0.7078
+Epoch:19 Step:14 Loss:0.4316 Batch Acc:0.7812 Mean Batch Acc:0.7081
+Epoch:20 Step:0 Loss:0.3973 Batch Acc:0.8281 Mean Batch Acc:0.7085
+Epoch:20 Step:1 Loss:0.4063 Batch Acc:0.8125 Mean Batch Acc:0.7089
+Epoch:20 Step:2 Loss:0.4345 Batch Acc:0.8047 Mean Batch Acc:0.7092
+Epoch:20 Step:3 Loss:0.4454 Batch Acc:0.7695 Mean Batch Acc:0.7094
+Epoch:20 Step:4 Loss:0.4689 Batch Acc:0.7344 Mean Batch Acc:0.7095
+Epoch:20 Step:5 Loss:0.4135 Batch Acc:0.8125 Mean Batch Acc:0.7099
+Epoch:20 Step:6 Loss:0.4293 Batch Acc:0.8164 Mean Batch Acc:0.7102
+Epoch:20 Step:7 Loss:0.4178 Batch Acc:0.8281 Mean Batch Acc:0.7106
+Epoch:20 Step:8 Loss:0.4075 Batch Acc:0.8125 Mean Batch Acc:0.7110
+Epoch:20 Step:9 Loss:0.5120 Batch Acc:0.7578 Mean Batch Acc:0.7111
+Epoch:20 Step:10 Loss:0.4271 Batch Acc:0.7969 Mean Batch Acc:0.7114
+Epoch:20 Step:11 Loss:0.4057 Batch Acc:0.8164 Mean Batch Acc:0.7118
+Epoch:20 Step:12 Loss:0.4193 Batch Acc:0.8320 Mean Batch Acc:0.7122
+Epoch:20 Step:13 Loss:0.4382 Batch Acc:0.7773 Mean Batch Acc:0.7124
+Epoch:20 Step:14 Loss:0.4101 Batch Acc:0.8086 Mean Batch Acc:0.7127
+Batch Test Accuracy:0.7266 Mean Batch Test Acc:0.7266
+Batch Test Accuracy:0.7500 Mean Batch Test Acc:0.7383
+Batch Test Accuracy:0.7188 Mean Batch Test Acc:0.7318
+Batch Test Accuracy:0.7109 Mean Batch Test Acc:0.7266
+Batch Test Accuracy:0.7227 Mean Batch Test Acc:0.7258
+Batch Test Accuracy:0.7070 Mean Batch Test Acc:0.7227
+Batch Test Accuracy:0.7266 Mean Batch Test Acc:0.7266
+Batch Test Accuracy:0.7500 Mean Batch Test Acc:0.7383
+Batch Test Accuracy:0.7188 Mean Batch Test Acc:0.7318
+Batch Test Accuracy:0.7109 Mean Batch Test Acc:0.7266
+Batch Test Accuracy:0.7227 Mean Batch Test Acc:0.7258
+Batch Test Accuracy:0.7070 Mean Batch Test Acc:0.7227
+Batch Test Accuracy:0.7266 Mean Batch Test Acc:0.7266
+Batch Test Accuracy:0.7500 Mean Batch Test Acc:0.7383
+Batch Test Accuracy:0.7188 Mean Batch Test Acc:0.7318
+Batch Test Accuracy:0.7109 Mean Batch Test Acc:0.7266
+Batch Test Accuracy:0.7227 Mean Batch Test Acc:0.7258
+Batch Test Accuracy:0.7070 Mean Batch Test Acc:0.7227
+Batch Test Accuracy:0.7266 Mean Batch Test Acc:0.7266
+Batch Test Accuracy:0.7500 Mean Batch Test Acc:0.7383
+Batch Test Accuracy:0.7188 Mean Batch Test Acc:0.7318
+Batch Test Accuracy:0.7109 Mean Batch Test Acc:0.7266
+Batch Test Accuracy:0.7227 Mean Batch Test Acc:0.7258
+Batch Test Accuracy:0.7070 Mean Batch Test Acc:0.7227
+Batch Test Accuracy:0.7266 Mean Batch Test Acc:0.7266
+Batch Test Accuracy:0.7500 Mean Batch Test Acc:0.7383
+Batch Test Accuracy:0.7188 Mean Batch Test Acc:0.7318
+Batch Test Accuracy:0.7109 Mean Batch Test Acc:0.7266
+Batch Test Accuracy:0.7227 Mean Batch Test Acc:0.7258
+Batch Test Accuracy:0.7070 Mean Batch Test Acc:0.7227
+Batch Test Accuracy:0.7266 Mean Batch Test Acc:0.7266
+Batch Test Accuracy:0.7500 Mean Batch Test Acc:0.7383
+Batch Test Accuracy:0.7188 Mean Batch Test Acc:0.7318
+Batch Test Accuracy:0.7109 Mean Batch Test Acc:0.7266
+Batch Test Accuracy:0.7266 Mean Batch Test Acc:0.7266
+Batch Test Accuracy:0.7500 Mean Batch Test Acc:0.7383
+Batch Test Accuracy:0.7188 Mean Batch Test Acc:0.7318
+Batch Test Accuracy:0.7109 Mean Batch Test Acc:0.7266
+Batch Test Accuracy:0.7227 Mean Batch Test Acc:0.7258
+Batch Test Accuracy:0.7070 Mean Batch Test Acc:0.7227
+Batch Test Accuracy:0.7266 Mean Batch Test Acc:0.7266
+Batch Test Accuracy:0.7500 Mean Batch Test Acc:0.7383
+Batch Test Accuracy:0.7188 Mean Batch Test Acc:0.7318
+Batch Test Accuracy:0.7109 Mean Batch Test Acc:0.7266
+Batch Test Accuracy:0.7227 Mean Batch Test Acc:0.7258
+Batch Test Accuracy:0.7070 Mean Batch Test Acc:0.7227
